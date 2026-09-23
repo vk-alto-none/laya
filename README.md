@@ -5,6 +5,10 @@
   </picture>
 </p>
 
+> [!NOTE]
+> **Original Creator Attribution**: Originally created by **Nandha Kishor M** ([GitHub: @NandhaKishorM](https://github.com/NandhaKishorM/laya) · ConvAI Innovations).
+> Maintained & integrated in the **DGPL System-1 Decision Engine** research ecosystem by [Durbhasi Gurukulam Private Limited (DGPL)](https://durbhasigurukulam.com/).
+
 **Multilingual, non-autoregressive System 1 decision engine.** Typed decisions over 100+ languages in a single forward pass — 33 ms — trained with reinforcement learning against strictly proper scoring rules (RLCD), with a router that picks the right checkpoint per request.
 
 <div align="center">
